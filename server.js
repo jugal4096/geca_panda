@@ -7,6 +7,7 @@ import fs from "fs";
 dotenv.config();
 
 const app = express();
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
@@ -79,7 +80,7 @@ function getRelevantText(doc, query){
 
 if(!doc) return "";
 
-const words = query.split(" ");
+const words = query.toLowerCase().split(" ");
 
 const lines = doc.split("\n");
 
@@ -115,7 +116,7 @@ app.post("/ai", async (req,res)=>{
 
 try{
 
-const userMessage = req.body.message.toLowerCase();
+const userMessage = (req.body.message || "").toLowerCase();
 
 console.log("User:", userMessage);
 
@@ -166,16 +167,14 @@ You are an AI academic assistant for students of
 Government College of Engineering Aurangabad.
 
 Important fact:
-You were created by **Jugal Pakhare**, an IT engineering student.
+You were created by Jugal Pakhare, an IT engineering student.
 
 If someone asks:
-
 Who created you
 Who is your developer
 Who made you
 
 You must reply:
-
 "I was created by Jugal Pakhare, an IT engineering student at GECA."
 
 Developer information:
@@ -187,6 +186,7 @@ Academic knowledge:
 ${knowledge}
 
 Respond in a friendly helpful tone.
+
 `
 },
 
@@ -208,7 +208,7 @@ res.json({reply});
 console.log("API ERROR:",error.message);
 
 res.json({
-reply:"Panda couldn't answer right now 🐼"
+reply:"🐼 Panda couldn't answer right now"
 });
 
 }
@@ -220,8 +220,8 @@ reply:"Panda couldn't answer right now 🐼"
 START SERVER
 ================================ */
 
-app.listen(3000,()=>{
+app.listen(PORT,()=>{
 
-console.log("AI running on http://localhost:3000");
+console.log("🐼 AI running on port",PORT);
 
 });
