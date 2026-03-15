@@ -1,0 +1,1378 @@
+1. FOREWORD
+Government College of Engineering, Chhtrapati Sambhjinagar(Aurangabad) is an Autonomous
+institute of Government of Maharashtra. The institute is established in 1960 to meet the growing
+demand for technical human resource in the country. The institute offers Under graduate, Post
+graduate and Doctoral programmes in engineering The institute initially started with Civil,
+Mechanical and Electrical Electronics and Power Engineering with 60 students as intake capacity
+leading to the Bachelors Degree in Engineering Subsequently additional programmes such as
+Electronics and Telecommunication, Computer Science and Engineering in 1999 and
+Information Technology in 2000 have been added. Post graduate programmes leading to Masters
+Degree in various branches of engineering have been introduced in 1986. This institute has been
+awarded autonomy from academic year 2006-07, vide Govt. Resolution number
+2004/1341/04)/(02)/TS-6 order Dated 29.03.2006 and is affiliated to Dr. Babasaheb Ambedkar
+Marathwada University. Chhtrapati Sambhjinagar(Aurangabad). The University, State
+Government and the University Grants Commission have conferred autonomous status to all the
+under graduate, Post graduate and Five doctoral courses of this institute initially from 2006-07
+for five years and later renewed and extended in 2012 upto 2017-18 again it is renewed and
+extended up to 2025. Institute is accreditated and shall apply for renewal of few UG and PG
+Courses. Some of the courses are re-accreditated. All the academic matters of the institute are
+governed through the Ordinances framed by the Academic Council and approved by the Board
+of Management. The implementation of these ordinances is to be made through the detailed
+regulations framed by the Academic Council.
+2. Preamble
+The aim of the undergraduate programme is to impart fundamental knowledge while the post
+graduate programmes enrich the students further in a specialized course.
+The curriculum has academic, co-curricular and extracurricular components designed for the
+integrated development of the students possessing expertise, ethical values and morality.
+3
+The syllabus in general include academic courses involving classroom teaching, teacher's
+assessment, laboratory practical, training, seminars, projects, field visit, dissertation etc.
+After completing the curriculum, the student will acquire adequate knowledge base in the desired
+branch, which could be easily employed for the solution of real life problems and develop further
+through higher education, for reaching the frontiers of technology.
+A. Ordinances for the Academic Evaluation of UG Programs
+1. Short title and Commencement
+2.1 "Institute” shall mean Government College of Engineering, Chhatrapati Sambhaji Nagar
+2.2 "AC" shall mean the Academic Council of the Institute.
+2.3 "EC" shall mean the Examination Committee
+2.4 "BOS" shall mean the Board of Studies.
+2.5 "ESC" shall mean Examination Sub-Committee
+2.6 "CoE shall mean the Controller of Examinations
+2.7 "DCOE" shall mean Departmental Controller of Examinations
+2.8 "IGMC shall mean Institute Grade Moderation Committee, the committee appointed by the
+Chairman to moderate grades awarded by the course coordinators.
+2.9 “DGMC” shall mean Departmental Grade Moderation Committee, the committee appointed
+by the department to moderate grades awarded by the course coordinators.
+2.10 "ISC" shall mean Institute Standing Committee
+2.11 "Student" shall mean a student registered for an Undergraduate /Post Graduate / Doctoral
+programme for Full time / Part time study leading to Bachelors / Masters/ Ph.D. degree.
+2.12 "Direct Admission Student” shall mean a student who is admitted directly to second year of
+the degree program after completion of the Diploma Course and registered for undergraduate
+programme for full time study leading to Bachelors degree.
+2.13 "Course Coordinator” shall mean a faculty member who teaches and sets question paper for
+a course
+4
+2.14 “Examination Period" shall mean the period of examination planned by the office of
+Controller of Examination at the end of each semester and as specified in academic calendar of
+the institute.
+2.15 "End Semester Examination" (ESE) shall mean the examination conducted at the end of
+each semester.
+ 2.16 "Re-Examination” shall mean the examination conducted after the ESE of each semester
+for candidate who fail in the ESE.
+2.17 "Unfair means" means an act or attempted act of deceit to gain academic credit and includes
+the use of, or the preparation of, for the purposes of using, unauthorized material in an
+examination whether inscribed in a paper, clothing, the candidates person etc, instruments
+(including electronic instrument), the reception of materials, signs or signals from other persons,
+substitution of other person for the candidate.
+2.18 "Invigilator" shall mean the person who conducts and supervises the examination in the hall
+as per the rules.
+2.19 “COE Office” means the office of the Controller of Examinations at the Institute.
+2.20 "SGPA" shall mean the Semester Grade Point Average.
+2.21 "CGPA" shall mean the Cumulative Grade Point Average.
+2.22 "UG" shall mean Undergraduate
+2.24 "PG" shall mean Post Graduate
+2.25"Internal Examiner” shall mean an examiner who is faculty in the institute and deals with the
+course.
+2.25 "External Examiner” shall mean an examiner from outside the institute and is appointed as
+an examiner for the course on recommendation of BOS of respective department.
+2.26 "Course Evaluator" means a person entrusted with the evaluation of performance of
+students in a course.
+2.27 “Paper Setter" means a person who is appointed for preparation of question paper for a
+course.
+2.28 "Internal Vigilance Squad" shall mean a group of at least three faculty members of suitable
+number from the institute appointed by the Head of the institute to keep vigilance during
+examination and to find out cases of unfair means if any.
+5
+2.29 "External Vigilance Squad" means a group at least 03 members of suitable number from
+outside the institute appointed by the Head of the Institute to keep vigilance during examinations
+and to find out cases of unfair means, if any.
+3. Ordinances
+3.1 The CoE shall function in co-ordination with Dean Academic and Registrar (Academic),
+Government College of Engineering Chhtrapati Sambhjinagar(Aurangabad)
+3.2 The CoE shall function as per the rules and regulations approved by the Examination
+Committee and the Academic Council.
+3.3 The right to amend the rules and regulations related to functioning of CoE lies with
+Examination Committee and the Academic Council.
+3.4 The Head of respective department shall appoint DCoE, DGMC and co-ordinator of
+examination etc. in consultation with the Head of the institute.
+3.5 The CoE office shall co-ordinate the evaluation process by following the examination rules.
+B. REGULATIONS FOR ACADEMIC EVALUATION OF UG, PG and MCA
+PROGRAM
+1. General
+1.1 These regulations shall be called the regulations for the Evaluation UG/PG programmes of
+the Institute.
+1.2 These regulations shall come into force on such date as decided by the Examination
+Committee and the Academic Council.
+2. Academic program
+ 2.1 The Institute shall offer Undergraduate programmes leading to Bachelor’s Degree in
+Technology (B.Tech.).
+2.1 The Institute shall offer Postgraduate programmes leading to Master’s Degree in Technology
+(M.Tech.) and Masters of Computer Application (MCA)
+6
+3. Semester System
+3.1 The academic programmes in the Institute shall be based on semester system: There shall be
+two semesters in a year, namely, First (Preferably July to November) and second (Preferably
+January to April).
+3.2 Each course shall have a certain number of credits assigned to it depending upon the
+academic load of the course, which would be assessed on the basis of performance of theory
+lectures, tutorials, laboratory practical’s, seminars, project, field study, dissertation, thesis etc. as
+applicable.
+3.3 The courses offered in a semester shall be continually assessed and evaluated to judge the
+student’s in each semester.
+4. Registration Numbers
+4.1 The registration numbers allotted to each student shall be in the form of 11 digit code
+consisting of alphabets and numerals as described below, (eg.BT23F01F001 for UG and
+MT23F07F001 for PG and MC23F14F001 for MCA)
+First 2 Characters Academic Programme
+BT
+MT
+MC
+DR
+Undergraduate
+Post Graduate
+Master of Computer Applications
+Phd.
+3rd and 4th Numeral Year of Admission(eg. 23 for admissions in 2023)
+Fifth Character Type of Admission at the Entry Level
+F Candidate joining the course from first year
+S Candidate admitted through lateral entry, Direct second
+year
+6
+th and 7th Numeral Programme Code
+01 Civil Engineering
+02 Mechanical Engineering
+03 Electrical Engineering
+04 Electronics and Telecommunication Engineering
+7
+05 Computer Science and Engineering
+06 Information Technology
+07 M. Tech (Geotechnical Engineering)
+08 M. Tech (Water Resources Engineering)
+09 M. Tech (Structural Engineering)
+10 M. Tech (Mechanical Design)
+11 M. Tech (Production Engineering)
+12 M. Tech (Electrical Power System)
+13 M. Tech (Electronics)
+14 MCA
+15 M. Tech (Electrical Machine Drives)
+8th Numeral
+F
+P
+Types of Courses
+Full Time Course
+Part Time Course
+9th to 11th Numeral Number assigned to candidate
+5. Course Credits
+5.1 Each course shall have an integer number of credits, which reflect its weightage. The course
+credits are decided by respective BOS and approved by AC. The number of credits of a course in
+a semester shall ordinarily be as under,
+5.2 Lectures: One lecture / tutorial hour per week shall be assigned one credit.
+5.3 Practical: Two laboratory hours per week shall be assigned One credit.
+5.4 Other courses like project, Industrial training, Seminar, Environmental studies etc. in the
+programme shall be assigned such number of credits as may be approved by the Academic
+Council.
+8
+Rules and Regulations for the Examination
+6. Examination Committee (EC):
+6.1 Members
+As per the statute with reference to Maharashtra University Act 2016, the autonomous college
+shall constitute the Examination Committee, which shall consist of following members,
+6.1.1 The Director/Principal / Head of the Institute as Chairman of the committee.
+ 6.1.2 Three teachers with not less than 10 years teaching experience nominated by the Head of
+the institute by rotation as member.
+6.1.3 Controller of Examination of the affiliating university or his nominee not below the rank of
+Deputy Registrar as member.
+6.1.4 One evaluation expert nominated by the Principal/Head of the institute.
+6.1.5 Controller of examinations of the autonomous institute shall act as member secretary.
+6.2 Powers and Duties of the Examination Committee:
+The Examination committee shall,
+6.2.1 Ensure proper organization, conduct of the examinations, evaluation, re-assessment and
+declaration of result.
+6.2.2 Appoint Paper setters, Examiners, etc. from amongst the persons included in the panel of
+examiners prepared by the respective BOS.
+6.2.3 Ensure preparation of the time schedule of examinations and dates of declaration of results
+for every examination
+6.2.4 Constitute a sub committee to investigate and take disciplinary action for unfair means and
+lapses on the part of candidates and the persons involved in the conduct of examination.
+6.2.5 Arrange for strict vigilance during the conduct of examinations, so as to avoid use of unfair
+means by the student, teachers or any other person involved in the system.
+6.2.6 Undertake, exercise and experiment in examination reforms.
+6.2.7 Perform such other duties and responsibilities, which are assigned to it from time to time.
+6.2.8 Meet at least twice in a year or as may be required from time to time.
+9
+6.2.9 Two third members shall constitute a quorum. If the meeting is adjourned for the want of
+quorum, then no quorum shall be required for such a meeting
+7. Examination Sub Committee (ESC)
+It shall be the subcommittee constituted by the Chairman, Examination Committee for
+the issues relating to unfair means related to examinations.
+7.1 The subcommittee shall consist of three members of whom one shall be its Chairman and
+other two members shall be amongst the Heads of various departments/senior faculty of the
+institute.
+7.2 The Examination Sub Committee shall investigate and recommend disciplinary action
+against students, paper setters, evaluators, Internal/ External Examiners, all officers and the staff
+involved in the examination system in any capacity, involved in unfair means and lapses, if any.
+7.3 Recommendation of the subcommittee shall be placed before the Chairman, examination
+committee, which shall take the disciplinary action in the matter, as it deems fit.
+8. Office of the Controller of Examinations
+8.1 To ensure proper functioning of the CoE office, Principal / Head of the Institute shall have
+discretionary powers to appoint from amongst the faculty members of the institute as Controller
+of Examination, Joint Controller of Examination, Assistant Controller of examination and other
+supporting staff.
+8.2 The number of persons working at the CoE office may be decided or decreased as per the
+requirements.
+8.3 Examination related expenditure, of any sort, shall be paid through the Joint account of the
+Chairman, Examination Committee and the Controller of Examinations
+8.4 Appropriate amount may be invested in bank as fixed deposit from time to time
+8.5 Internal audit by Chartered Accountant appointed by the institute shall be done every year
+10
+9. Controller of Examinations (CoE):
+The CoE of the institute with JCoE, ACOEs and supporting staff working in his office shall,
+9.1 Prepare schedule for various examinations like End Semester Examination, Re-Examination,
+Practical, Oral, Viva Voce, etc. in co-ordination with the Dean Academics.
+9.2 Prepare detail time table for ESE and Re-ESE as per the schedule
+9.3 Obtain three sets of question papers to be used for ESE and Re-Examination, in sealed cover
+in respective courses (FY,SY and TY).
+9.4 Obtain three sets of question papers to be used for ESE and Re-Examination in sealed cover
+from internal paper setters and two sets from paper setters outside the institute for B Tech Final
+Year, M. Tech, MCA and PhD courses.
+9.5 Select randomly one question paper and make required number of copies at the examination
+section and seal.
+9.6 Keep all question paper sets, answer books, attendance sheets, etc. ready for distribution to
+the Examination Co-ordinators of the various departments.
+9.7 Distribute all the requisite material to the Examination Coordinators of each department for
+the smooth conduction of ESE and Re-ESE.
+9.8 Receive course code wise answer sheets along with attendance from the Examination cocoordinators immediately after every session of examination.
+9.9 Issue the answer books to the course evaluators for assessment
+9.10 Receive all mark sheets/grades of all the classes for all the courses in the department duly
+signed by DGMC from respective DCOE
+9.11 Ensure proper entry of marks in the software of CoE cell and maintain the records of all the
+marks and grades.
+9.12 Display results in the form of grades on the institute Website /notice boards,
+9.13 Ensure proper printing and distribution of the grade cards to the students.
+9.14 Submit result to the Dean (Academic) for further analysis.
+9.15 Prepare proposals for reforms in examination system, examination fees and remuneration to
+the staff related with the examination activities.
+11
+9.16 Carry out any other activity related with the examination or evaluation other than the above
+as per the directives from the Examination Committee.
+10. Joint Controller of Examinations (JCoE):
+The JCOE shall,
+10.1 Shall work as CoE, in the absence of CoE.
+10.2 Discuss issues related with overall functioning of CoE office with CoE/ ACOE/ and other
+staff.
+10.3 Act as per the directions of the COE / EC.
+11. Assistant Controller of Examination (ACOE):
+The ACOE shall,
+11.1 Discuss issues related with overall functioning of CoE office with COE/ JCOE/ and other
+staff.
+11.2 Act as per the directions from the COE / JCOE/EC.
+12. Other staff at CoE Cell
+Act as per the directions from CoE /JCOE / ACOE / EC.
+13. Departmental Controller of Examination (DCoE)
+The DCOE of each department shall be appointed by the Principal in consultation with the
+respective HOD.
+DCOE shall,
+13.1 Prepare ISE-I ISE-II and Practical/oral examination time table for department and coordinate the conduct of examinations in the department such as ISE-I, ISE-II, Practical, Oral,
+12
+Seminar, Project, Dissertation etc as applicable for UG and PG students of the respective
+departments.
+13.2 Collect the examination stationery (Answer books, attendance sheets) from the examination
+cell and distribute it to the concerned course co-ordinators.
+13.3 Collect back the unused answer books from the course coordinators and return it to the
+Examination cell.
+13.4 Collect the mark sheets of ISE, Practical, Oral, Seminar, Assignment, Term Work etc. from
+respective course coordinators/subject teachers and submit to examination cell in specified time
+period. Mark sheets of Assignment and Term work shall be duly signed by the Chairman.
+DGMC
+13.5 Verify the marks entry and grades of End Semester Examination and Re-Examination.
+13.6 Discuss issues related to various examinations of all the programmes in the respective
+department and discuss the same with COE/JCOE / ACOE.
+14. Institute Standing Committee (ISC)
+14.1 The head of the institute / Principal shall appoint an institute standing committee to deal
+with extra ordinary situations, unusual events and unresolved issues.
+14.2 The ISC shall consist of all HoD's as members and one of them shall be its Chairman.
+15. Grade Moderation
+15.1 Institute Grade Moderation Committee (IGMC):
+15.1.1 Chairman Examination committee shall appoint the members from amongst the faculty of
+the institute. The committee shall have chairman and two members appointed by examination
+committee.
+15.1.2 CoE cell shall prepare ESE and Re-examination result and conduct a meeting with IGMC
+15.1.3 The role of IGMC shall be overall monitoring of academic evaluation at institute level.
+15.2 Departmental Grade Moderation committee (DGMC):
+15.2.1 The DGMC shall consist of one chairman and two members appointed by HOD from
+amongst the faculty of the department.
+13
+15.2.2 The role of DGMC shall be overall monitoring of academic evaluation at department
+level.
+16. Departmental Academic Appeals Board (DAAB):
+Constitution:
+a. Program Coordinator of the teaching/parent Dep. Chairman ---Chairman
+b. Three faculty members -------------Member
+c. One faculty from outside the Department
+ nominated by Principal --------------Member
+d. Faculty Advisor(s) of the Class from where
+ the Appeal ----------------Member
+Note:
+There shall be one DAAB for every department.
+The Chairman may co-opt and/ or invite more members.
+Depending on the prevailing circumstances, a Senior faculty of the Department,
+nominated by the Principal, shall act as Chair person instead of Head of the
+Department.
+If the concerned Co-ordinator is a member of DAAB then he/ she shall keep
+himself out of the Board during deliberations.
+Functions:
+1. To receive grievance/ complaints in writing from the students regarding anomaly in
+award of grades due to bias, victimization, erratic evaluation, etc. and redress the
+complaints.
+n. To interact with the concerned course Co-ordinator and the student separately before
+taking the decision.
+m. The decision of the DAAB will be based on simple majority.
+1v. The recommendations of the DAAB shall be communicated to the Dean
+(Academic) and Principal for further appropriate action if required.
+14
+17. Vigilance Squad
+17.1 External Vigilance Squad (EVS):
+16.1.1 The external vigilance squad at least three members from amongst the senior teaching
+faculty of any other institute of whom one shall be lady, One of the members of the committee
+shall work as the Chairman. The committee shall be constituted by chairman examination
+committee.
+17.1.2 The EVS shall give surprise visits on at least three days during the examination period and
+the chairman shall submit a report to Chairman, Examination committee with suggestions,
+modifications if necessary for proper conduct of examination.
+17.1.3 The committee shall be authorized to detect the use of unfair means and unfair means in
+the examination.
+17.1.5 It is empowered to enter in any examination block, hall for checking the candidate's
+identity for ascertaining authenticity of the candidate.
+17.1.6 Observe whether the invigilators and staff appointed for conduct of examinations are
+following the instructions scrupulously.
+17.1.7 Check the students trying to resort to unfair means at the time of examinations and report
+such cases to the Controller of Examination in writing.
+17.1.8 All extraordinary developments related to the conduct of examination shall be referred to
+the Chairman Examination Committee, who would decide appropriate course of action using his
+discretionary powers
+17.2 Internal Vigilance Squad (IVS) :
+17.2.1 The internal vigilance squad of at least three members of whom one shall be lady, shall be
+appointed by Chairman, Examination Committee. The IVs is authorized to visit to examination
+hall/s on any/all days of examination during the examination period.
+17.2.2 It is fully authorized to detect use of unfair means in the examination.
+17.2.3 It can enter in any examination block for checking the candidate's identity for ascertaining
+authenticity of the candidate.
+17.2.4 It can observe whether the invigilators and staff appointed for conduct of examinations are
+following the instructions scrupulously.
+15
+17.2.5 It can check students using unfair means at the time of examinations and report such cases
+to the Controller of Examination in writing.
+16.2.6 It shall refer all extraordinary developments related to the conduct of examination to the
+Chairman Examination Committee, who would decide appropriate course of action using his
+discretionary powers.
+18. Examination Co-ordinators
+18.1 There shall be Co-ordinator of examination for each department for the smooth conduct of
+ESE and Re-ESE
+18.2 The Co-ordinator of the Examination shall be the in-charge of End semester examination
+and Re Examination to be held at the end of every semester.
+19. Course Co-ordinator
+Course co-ordinator dealing with a course shall,
+ 19.1 Prepare a set of three question papers and submit it to the examination section in sealed
+envelope.
+19.2 Assess all the answer books of the course, submit the marks lists of ISE-I, ISE-II, ISE-III,
+(teacher's assessment, term work) etc through DCOE and the mark lists of ESE and Reexamination to the examination section directly.
+16
+C. REGULATIONS REAGRDING CONDUCT OF EXAMINATIONS
+1. Conduct of ISEs (Class Test)
+1.1.The First year coordinator shall prepare the time table for the first year ISEs and inform the
+same to all the departments.
+1.2. For all other classes (UG/PG, Full time/Part time) the respective departments DCoE shall
+prepare the time table of ISE-I, ISE-II, display it on the notice board and submit a copy to the
+CoE office.
+1.3 The DCoE of the department offering the course, shall collect required stationary including
+blank answer books from the COE office before the commencement of the examinations.
+1.4 In case of departments where DCoE is not appointed the course coordinator shall collect the
+required stationary.
+ 1.5 The course coordinator shall prepare the question paper for the ISE and get required number
+of photocopies from the examination section or from the department and use it on the day of
+examination
+1.6 The seating arrangement of the ISE shall be prepared by the DCOE
+ 1.7 The course coordinator shall remain present during the test along with the question paper,
+answer books, attendance sheets.
+1.8 The course coordinator/ invigilator shall hand over the attendance sheet and the unused
+answer books to the DCOE/ Coordinator.
+1.9 The used answer books shall be retained by the course coordinator for evaluation
+1.10 The course coordinator shall display the ISE marks obtained by each student on the
+department notice board and submit a copy in the prescribed format to the CoE office through
+DCOE.
+17
+2. Conduct of Practical Examination by Internal and External Examiners
+2.1. For the courses where practical examination is conducted the internal and external
+examiners are appointed by the examination committee from the list of examiners recommended
+by the Board of Studies.
+2.2 All the candidates are evaluated by the internal and external examiner for Practical/ oral/ viva
+voce within the premises of the institution as per the schedule prepared and displayed by the
+department.
+2.3. Examiners shall take attendance of the students present for the examination and shall enter
+marks by internal/ external examiner in the MIS software, saved and locked. The examiners shall
+submit the attendance and mark sheet to the examination section through the DCoE in sealed
+envelope.
+2.4 The DCoE shall collect all such mark sheet envelope and submit them along with the list of
+envelopes to the examination section within two days after the last day of practical / oral/ viva
+voce examination of the department.
+3. Conduction of End Semester Examination / Re-Examination
+3.1. The End Semester Examination would be held for the courses offered in that semester.
+3.2. The Re-Examination would be held after every End Semester Examination of a semester, for
+the courses offered in that semester only.
+3.3. The Co-ordinator of the Examination shall conduct End Semester Examination
+3.4 End Semester Examination and Re-Examination shall be conducted by CoE Cell.
+3.3.1. Pre-Examination Activities
+The Co-ordinator shall
+3.3.1.1. Collect the blank answer books and required stationary from the examination section one
+day before start of examination.
+3.3.1.2. Collect the Question paper from the examination section before the start of examination.
+18
+ 3.3.1.3. Collect List of students appearing for the Examination five days before the start of
+examination.
+3.3.1.4. Prepare invigilation schedule for the examination as per the requirement and
+communicate to the invigilators (One block of maximum 40 students). There shall be one
+invigilator for each block. Invigilator shall be a teaching faculty member only.
+3.3.1.5. Prepare block wise Seating arrangement for the examination and display it for the
+information of students and submit a copy to the examination section.
+3.3.1.6. Prepare Attendance sheets for the examination (Separate sheet for Regular and Back log
+subjects)
+3.3.1.7. Appoint One Class III staff, if required, for clerical work.
+3.3.1.8 Assign duties for the Class IV such as opening and closing the examination block,
+providing water and other examination related work. There shall be one class IV for 02 blocks.
+3.3.2 Activities on the Day of Examination
+3.3.2.1. Open the Examination halls 15 minutes before the commencement of examination
+3.3.2.2. Open the sealed Question papers packets 10 minutes before commencement of
+examination in the presence of two examinees.
+3.3.2.3. Prepare a set of 5 Question Papers each for the use of Examination Section and hand
+over the same along with the Answer books of that course. After the last day of examination, of
+soft copy of used question papers shall be displayed on the website of the institute.
+3.3.2.4. Assign duties to the invigilators and hand over the required number of answer books
+with attendance sheet.
+3.3.2.5 Shall solve the problems / queries of students and report complaints about question
+papers if any.
+3.3.2.6. Supervise the smooth conduct of Examination.
+3.3.2.7. Forward the cases of unfair means to Examination Section in sealed envelope.
+3.3.2.8. Collect the Answer books from the invigilator and hand over the same to Examination
+Section on the same day.
+19
+3.3.3. Activities after the Examination
+ 3.3.3.1. Hand over the unused Answer Books and Question papers to the Examination Section.
+3.3.3.2. Submit a copy of the block wise seating arrangement to the Examination Section
+3.3.3.3. Prepare the remuneration bill for the staff appointed for conduct of examination
+(Invigilator, Class III, Class IV staff, Co-ordinator etc.)
+4. Examination Rules
+4.1. Confirmation of Enrollment: A candidates name shall not appear in the list of candidate
+appearing for the examination unless he/she completes all the requirements of enrollment
+(including admission, registration examination form and fee by due date etc.).
+4.2. Schedule of Examinations: By mid-semester, the Dean (academic) shall provide to COE a
+schedule of courses for which examination is to be conducted and a result is to be declared.
+4.3 List of Candidate: The complete list of registered eligible candidates for examination shall
+be downloaded from the MIS.
+4.4 Time-Table: A tentative Time Table for examinations to be held shall be displayed on the
+appropriate Notice Boards/Institute website. A candidate, who finds overlaps in timetable, should
+notify the same to COE Cell. A final timetable for examinations held shall be displayed two
+weeks before the commencement of examinations.
+4.5 Special Arrangements: A candidate who, on account of physical disability, is unable to
+appear for an examination at the place allocated, or has special needs such as amanuensis to
+write on his/her behalf, may apply to the COE for special arrangements to be made. An
+application on pre-existing disability shall be submitted for prior permission from designated
+authorities, at least seven working days prior to the date of examinations.
+20
+4.6 If a student is unable to write the examination on medical grounds, he/she is allowed to take a
+writer with prior permission of the Principal/Head of the Institute subjected to following
+requirements.
+4.6.1. Medical certificate of the student duly attested by the Civil Surgeon /Government Medical
+Officer.
+ 4.6.2. Bonafide certificate of the writer and photo identity card.
+4.6.3. The eligibility condition for the writer is, he should be younger than the candidate at least
+by one year and should have qualification less than the candidate and should not have appeared
+or appearing for that particular course. Writer should be from non-engineering courses.
+4.6.4. Extra time will not be given for completion of paper.
+4.6.5. Only one writer will be allowed during the entire examination
+4.6.6. Writer is not allowed for papers where skills are examined (e.g. Drawing, practicals etc)
+4.7. Entry to Examination Room: A candidate shall not enter the examination room unless the
+Invigilator gives permission, and in any event, not later than the first thirty minutes of an
+examination session
+ 4.8. Leaving Examination Room: A candidate appearing for the examination can leave the
+examination hall after submitting his answer book any time after 60 minutes from the start of
+examination. However his question paper shall be retained by the invigilator till the end of the
+examination.
+4.9. Behavior: A candidate, admitted to the examination room shall comply with all
+requirements and directions of the Invigilator/officers related with conduct of examination.
+4.10. Places: On entering in examination room, a candidate shall occupy, without delay such
+place as indicated by signs or by an Invigilator and shall not change place except with the
+permission of the Invigilator.
+4.11. Identification: A candidate shall bring to examination room his/he Student Identification
+Card.
+4.12. Unauthorized Materials: A candidate shall not, except with the explicit permission of the
+examiner as indicated in the examination bring into the examination room anything, whatsoever,
+which conveys or is capable of conveying information concerning any course/unit, or which in
+the opinion of the Invigilator, gives rise to suspicion that it is capable of doing so.
+21
+4.13. Communication within the Examination Room: A candidate having entered the
+examination room, shall not communicate, by word writing, signaling, with any person other
+than an Invigilator or as Examiner, or assist any other person to communicate with another
+candidate, or willingly receive communication from any person other than Invigilator or
+Examiner.
+4.14. Compliance with Instructions: A candidate shall comply with all instructions set forth on
+the Answer book and / or the Question Paper, or with any examination notice displayed in the
+examination room, or with any instruction given by an Invigilator.
+4.15. Misconduct: A candidate shall not use unfair means or attempt to do unfair means during
+an examination or undertake any other activity which may be considered as an act of misconduct.
+A person, whether candidate or not, shall not do anything intended to assist a candidate
+appearing for an examination to carry unfair means or otherwise defeat the purpose of the
+examination.
+ 4.16. Removal of Papers: A candidate shall not take any Question Paper, Answer book or any
+other material, which is property of the Institute given to him by Invigilator.
+5. Powers of the Invigilator:
+An Invigilator, while performing examination duty shall have following powers,
+5.1. Confiscate any material brought into the examination room, which the Invigilator considers
+to be unauthorized; the confiscated material, with a statement of the circumstances, shall be
+submitted to the COE Cell with appropriate note.
+5.2. Collect mobile handset, digital watches, other allied gadgets found in possession of any
+student; he/she shall submit the same subsequently to the COE Cell with appropriate note.
+5.3. Ask any question related to the person's behavior in the examination room.
+5.4. Instruct any person, whether a candidate or not, to leave the examination room if in the
+opinion of the Invigilator, the person's behavior is such as to disturb or distract any other
+candidate.
+22
+5.5. Such other powers are necessary for the proper and efficient conduct of examination. Any
+person present in an examination room shall comply with any such requirements of an invigilator
+and answer any questions asked.
+ 5.6. Refer such cases to Examination Sub Committee (ESC) which will decide the appropriate
+action.
+6. Examination Rules for Candidates
+6.1. Each candidate should remain present in the Examination Block well before the time when
+the examination is due to start.
+6.2. Candidates are expected to bring their own writing instruments along with nonprogrammable calculator, if required. They shall not bring into the Examination Block any book,
+paper or programmable calculator, unless the official notice of the examination states to do so.
+6.3. Mobile phones, digital watches other allied gadgets are not permitted in Examination Block.
+Any candidate who is found to have a mobile telephone, on or off, in his/her possession after the
+start of the examination, shall be considered as committing an unfair means.
+6.4. Overcoats and other surplus clothing must not be brought into the Examination Block.
+6.5. Transparent drinking water bottle up to 1 liter capacity is allowed. Under no circumstances
+any food or alternative drink can be brought into the Examination Block, expect with unless prior
+permission, for medical reasons, has been obtained.
+6.6. Complete silence must be maintained in the examination room at all times. The use of any
+type of alarm clock is prohibited.
+6.7. Smoking and chewing of tobacco products in the examination room is prohibited.
+6.8. A candidate who requires assistance should attract the attention of the Invigilator by raising
+a hand.
+6.9. All writing must be done in ink in the Answer book provided, and rough work should be
+crossed out. Under no circumstances pages be removed from the answer book.
+6.10. In an examination, candidate shall not carry out, nor attempt to carry out unfair means.
+6.11 A candidate shall not bring into a room in which an examination is to be or is being
+conducted, material which is prohibited.
+23
+6.12. At the end of the examination, candidates should remain seated in silence until all Answer
+books are collected and verified by the invigilator.
+6.13 No answer book used or blank, or any part thereof, shall be taken by students out of
+Examination Block.
+6.14 Any breach of the rules reported by Invigilator/Examiner, shall be the subject of
+disciplinary action thereafter.
+D. COURSE EVALUATION
+1 Rules for Theory ESE course Evaluation/Assessment
+1.1. Before taking answer sheet for assessment, course co-ordinator should submit marking
+scheme or model answer sheet or both to CoE (If model answer sheets are not provided at the
+time of question paper submission)
+1.2. If the faculty member is unable to provide marking scheme or model answer sheet or both
+then he/she should submit undertaking regarding confidentiality and integrity of the assessment
+process (Assessment should be uniform for all the answer sheets)
+1.3. Faculty members should preferably avoid mobile phones in the assessment room.
+1.4. Faculty members are not allowed to take photograph of any answer sheets
+1.5. Faculty members are not allowed to take bags or any other material (consolidated mark sheet
+of ISE-I, ISE-II, ISE- III (CT, TA) is not allowed) in the assessment section
+1.6. It is mandatory to assess/evaluate answer sheets in given time period only
+2. Assessment by Course Coordinator
+2.1. Course Evaluation shall be done through grading system prescribed in document of the
+Rules and Regulations of UG & PG/ Programmes.
+2.2. Course Coordinator shall evaluate the academic performance of ISE, Assignment, Teachers
+Assessment, Tutorials, Practical’s, Term work, Field work, Seminar, Project, End Semester
+Examination, Re- Examination, and Rechecking
+2.3. Chief Course Coordinator shall set the common question paper for End Semester
+Examination and Re-Examination for a particular course. However for ISE, respective Course
+Coordinators may set Separate Question paper for a particular Course. However in extra ordinary
+situation, decision regarding paper setting or allied issues, shall be taken by Chairman EC.
+24
+2.4. The evaluation work may be assigned, if necessary, to a person other than Course
+Coordinator. However, the Course Coordinator shall arrange for his substitute in case of such
+unavoidable circumstances, and intimate the same in writing to COE Cell duly signed by both of
+them.
+2.5. The concerned Course Coordinator shall preserve the Answer books of ISE for 12 months
+before handing over to the departmental store for disposal.
+2.6. After assessment of paper of ISE, individual course coordinator shall display the marks
+obtained by all examinee in the respective course, and shall clarify queries from students, if any,
+at his/her level, and do the necessary corrections in the marks, if any. The course coordinator
+shall not entertain any person other than the student himself/herself in such cases.
+2.7. For practical/oral examinations external examiner proposed by respective BoS, shall be from
+outside the institute. In case the appointed external examiner is unable to report for the
+examination, alternative arrangement shall be done by Chairman BoS and conduct the
+examination. Such changes shall be informed to the COE Cell for record.
+2.8. For Practical / oral examination of Dissertation-II in case of M. Tech courses, BoS may
+appoint external examiner preferably a PG faculty of appropriate discipline.
+2.9 After every ESE/Re-ESE, the answer books would be stacked in center assessment center of
+the COE Cell.
+2.10 The answer books would be made available to faculty members for assessment soon after
+the respective course examination is over. However the period of assessment after the last paper
+of a given exam would be three days only.
+2.11. The answer books are then issued for the scrutiny, where the answer books are verified for
+the totaling of marks, carrying forward marks to first page and verified unassessed answers, if
+any.
+2.12. After the completion of scrutiny the corrections, if any, are to be done by the evaluator and
+the answer books are then handed over to the assessment centre.
+2.13. The answer books mark lists as per enrollment numbers are prepared and handed over to
+data entry operator.
+25
+3. THE GRADE SYSTEM
+3.1. The grading system for UG programmes as recommended by Dean (Academics) and
+approved by Academic council shall be followed for declaration of results.
+3.2. For every course taken by a student, he/she is assigned a grade based on his/her combined
+performance in all the heads of assessments. The grade indicates a qualitative assessment of the
+student's performance and is associated with equivalent number called a grade point.
+3.3 The academic performance shall be graded on a ten-point scale following guidelines given
+below for undergraduate and post graduate classes.
+3.3.1. The letter Grades (up to D only) awarded to a student in all the courses and shall be
+converted into a semester and cumulative performance index called the Semester Grade Point
+Average (SGPA) and Cumulative Grade Point Average (CGPA).
+3. 4. RELATIVE GRADE SYSTEM FOR UG PROGRAM
+Award of Grades3.4.1. Grade A++ absolute grade to be awarded to 10 % or less number of students securing
+more than 80 % marks.
+3.4.2. In case of students appearing for Re-examination the grade shall not be higher than A+ in
+that particular course.
+3.4.3. Grade D absolute grade to be awarded to a student who fails to pass the subject securing
+less than 40 % marks or student remaining ABSENT in a course of End Semester Examination/
+Re-Examination.
+3. 4.4. The intermediate grade shall be awarded by dividing the marks equally between marks
+secured by student securing A++ and C grade.
+3.4.5. There shall be letter grades with associated grade points as given below:
+Relative Range of Grade
+Grade Point Marks
+Grade Grade Point
+M ≥ k1 A++ 10.0
+K1 > M ≥ k2 A+ 9.0
+K2 > M ≥ k3 A 8.0
+26
+K3 > M ≥ k4 B+ 7.0
+K4> M ≥ k5 B 6.0
+K5> M ≥ k6 C+ 5.0
+K6 > M ≥ k7 C 4.0
+M < k7 D 0
+Where,
+M-marks obtained out of 100,
+k1 = Minimum marks of (A++-1) or maximum marks secured if no student is awarded A++
+ k7=40; C=abs (kl-k71/6; k2= (k1-C); k3=k2-C; k4=k3-C; k5=k4-C; k6=k5-C
+3.4.6. The SGPA and CGPA shall be calculated as per the procedure followed based on credits.
+The equivalent percentage from CGPA shall be calculated as (CGPA) X 10.
+3.4.7. Class is awarded on the basis of CGPA
+First Division with Distinction = CGPA ≥ 7.00
+First Division = 7.00 > CGPA ≥ 6.00
+Second Division = 6.00> CGPA ≥ 5.00
+Pass Class = CGPA < 5.00
+* Absolute grading shall apply if the number of students is less than 20 for End semester
+examinations and its subsequent Re-examination
+Range of Marks (%) Grade Grade Point
+91-100 A++ 10.0
+82-90 A+ 9.0
+73-81 A 8.0
+64-72 B+ 7.0
+56-63 B 6.0
+ 48-55 C+ 5.0
+40-47 C 4.0
+0-39 D 0
+27
+3.5. RELATIVE GRADE SYSTEM FOR PG PROGRAM (M.Tech &MCA)
+Award of Grades3.5.1. Grade A++ absolute grade to be awarded to 10 % or less number of students securing
+more than 90 % marks.
+ 3.5.2. In case of students appearing for Re-examination the grade shall not be higher than A+ in
+that particular course.
+3.5.3. Grade D absolute grade to be awarded to a student who fails to pass the subject securing
+less than 50 % marks or student remaining ABSENT in a course of End Semester Examination/
+Re-Examination.
+ 3.5.4. The intermediate grade shall be awarded by dividing the marks equally between marks
+secured by student securing A++ and C+ grade.
+3.5.5. There shall be letter grades with associated grade points as given below:
+Relative Range of Grade
+Grade Point Marks
+Grade Grade Point
+M ≥ k1 A++ 10.0
+K1 > M ≥ k2 A+ 9.0
+K2 > M ≥ k3 A 8.0
+K3 > M ≥ k4 B+ 7.0
+K4> M ≥ k5 B 6.0
+K5> M ≥ k6 C+ 5.0
+M < k6 D 0
+Where,
+M-marks obtained out of 100,
+k1 = Minimum marks of (A++-1) or maximum marks secured if no student is awarded
+ A++
+ k6=50; C=abs (kl-k61/6; k2= (k1-C); k3=k2-C; k4=k3-C; k5=k4-C
+These rules are applicable for following semesters
+a) First, second, third and Fourth semester of MCA programme
+b) First, second and third semester of M.Tech. Full time programme
+c) First, Second, Third, Fourth and Fifth semester of M.Tech. Part time programme.
+28
+d) In case of Dissertation-II/Project, of Fourth semester of M.Tech. and Sixth
+semester of M.Tech. Part time programme the grades will be as Follows,
+Range of Marks (%) Grade Grade Point
+91-100 A++ 10.0
+82-90 A+ 9.0
+74-81 A 8.0
+66-73 B+ 7.0
+58-65 B 6.0
+50-57 C+ 5.0
+Below 50 D 0
+3.5.6. The SGPA and CGPA shall be calculated as per the procedure followed based on
+credits. The equivalent percentage from CGPA shall be calculated as (CGPA) X 10.
+3.5.7. Class is awarded on the basis of CGPA
+First Division with Distinction = CGPA ≥ 7.25
+First Division = 7.25 > CGPA ≥ 6.25
+Second Division = 6.25> CGPA ≥ 5.25
+Pass Class = CGPA < 5.25
+* Absolute grading shall apply if the number of students is less than 10 for End semester
+examinations and its subsequent Re-examination
+Range of Marks (%) Grade Grade Point
+91-100 A++ 10.0
+82-90 A+ 9.0
+74-81 A 8.0
+66-73 B+ 7.0
+58-65 B 6.0
+50-57 C+ 5.0
+Below 50 D 0
+4. OPEN HOUSE
+Open house shall be conducted for end semester Examination and Re-Examination.
+29
+Coe shall prepare a schedule of open house and circulate to all the department
+coordinators/DCOEs/HODs
+5. GRADE MODERATION
+5.1. Examination Committee shall identify the boundary cases for theory courses (ISE I+ISE
+II+ISE III+ESE marks) up to 03 marks required for passing (37 for UG and 47 for PG) and
+report those to the evaluator before open house
+5.2 Examination Committee shall appoint an Institute Grade Moderation Committee for overall
+ monitoring of academic evaluation.
+5.4. The Chairman BOS/HOD shall constitute a Departmental Grade .Moderation Committee for
+a particular programme. One of the members of the DGMC shall be Chairman.
+5.5. All concerned faculty members (Course Coordinator) should invariably be present for the
+Departmental Grade Moderation Committee meeting. In case, someone is going out on institute
+duty, he/she will hand over his/her inputs for moderation with a colleague, who should present it
+in the meeting.
+5.6. The Departmental Grade Moderation Committee shall do the moderation of ISE I, ISE II,
+ISE III
+6. RESULT
+The result of each examination shall be declared in the form of grades and stored in the form of
+soft and hard copy.
+7. IMPROVEMENT IN CLASS OBTAINED AT GRADUATE EXAMINATION
+The institute shall provide a facility for improvement in class obtained at graduate examination
+for candidates securing CGPA of less than 6.00 Subject to following conditions
+7.1. The improvement in class is offered for B Tech. Final year ESE only.
+7.2. This facility is extended within three years of passing the final B.Tech. Examination and
+available in theory courses of final year only.
+30
+7.3. The candidate shall avail maximum of three attempts in minimum of two courses of a
+semester with a facility to retain the best performance. The total grade shall not be lowered due
+to these additional attempts.
+ 7.4. The candidate should pass in all the subjects selected for improvement.
+7.5. The candidate will not be able to change the selected courses in subsequent attempts.
+7.6. The candidate shall pay the examination fees as declared by the institute from time to time.
+7.7. The candidate will have to surrender original grade card issued earlier to facilitate issue of
+new grade card. New grade card will be issued only if the grade is improved
+E. REGULATIONS REGARDING UNFAIR MEANS
+1. UNFAIR MEANS COMMITTED BY THE STUDENT
+1.1 The Examination Committee shall be the competent authority to take disciplinary action
+against a student for his misconduct due to unfair means committed by him at the
+examination conducted by the Institute.
+1.2 Definitions Unless the context otherwise requires,
+1.2.1. “Student” means and includes a person who is controlled as such try the Institute for
+receiving instruction qualifying for any degree, or certification awarded by the University /
+Institute. It includes ex-student and student registered as candidate for any of the Degree, or
+Certificated Examinations.
+1.2.2. “Unfair Means” It means and includes one or more of the following acts of omissions
+on the part of students during the examination period:
+1.2.2.1. Possessing unfair means material and or copying there from.
+1.2.2.2. Transcribing any unauthorized material or any other use thereof.
+1.2.2.3. Intimidating or using obscene language or threatening or use of violence against
+invigilator or person on duty for the conduct of examination or man-handling him/her or
+leaving the examination hall without permission of the invigilator or causing disturbances in
+any manner in the examination proceedings.
+1.2.2.4. Unauthorized communication with other examinees or any one else inside or outside
+the examination hall.
+31
+1.2.2.5. Mutual/Mass copying
+1.2.2.6. Smuggling out, either blank or written answerbook, or smuggling in of answerbook
+as copying material
+1.2.2.7. Smuggling in blank or written answerbook, and forging signature of invigilator
+therein.
+1.2.2.8. Interfering with or counterfeiting of Institute seal or answer books or office
+stationary used in the examination.
+1.2.2.9. Insertion of currency notes in the answer books or attempting to bribe any of the
+persons connected with conduct of examinations.
+1.2.2.10. Impersonation at the Institution examination.
+1.2.2.11. Revealing identity in any form in the answer written or in any other part of the
+answer book by the student at the institute examination.
+1.2.2.12. Any other similar act/s and omission/s, which may be considered as unfair means
+by the competent authority.
+1.2.3. Unfair means relating to examination means and includes directly or indirectly
+communicating, or attempting to commit, or threatening to commit any act of coercion, or
+unfair means with a view to obtain wrongful gain to himself/herself, or to any other
+person(s).
+1.2.4 Unfair means material means and includes any material whatsoever, related to subject
+of the examination, printed, type, handwritten or otherwise on the person or on clothes, or
+body of the form of chart,diagram,map or drawing or electronic aid etc., which is not
+allowed in the examination hall.
+1.2.5. Possession of unfair means material by a student means having any unauthorized
+material on his/her person or desk or chair or table or at any place within his/her reach, in the
+examination center and its envies or premises at any time from the commencement of the
+examination till its conclusion.
+1.2.6. Student found in possession means a student reported in writing as having been found
+in possession of unfair means material by Invigilator, member of the Vigilance committee,
+Examination squad or any other person related with conduct of examination, even if the
+unfair means material is not produced as evidence because of its being reported as swallowed
+or destroyed, or snatched away or otherwise taken away, or spoiled by the student, or by any
+32
+other person acting on his behalf, to such an extent that it has become illegible. Provided
+report to that effect is submitted by the Invigilator or any other authorized person to the
+Controller of Examinations, Principal or Head of the Institute concerned or any officer
+otherwise in this behalf.
+1.2.7 Material related to the subject of Examination means and included, if the material is
+produced as evidence, any material certified as related to the subject of examination by a
+competent person, and if the material is not produced as evidence or has become illegible for
+any of the reasons refers to in clause above, the presumption shall be that the material did
+relate to the subject of the examination.
+1.3. Chief conductor means and includes Principal of college concerned or head of the
+recognized institution where examination is being conducted and any other person duly authorize
+by him/her or person appointed as incharge of examination. The Principal of the college, or Head
+of the recognized Institution shall be the competent authority to take disciplinary action against a
+student for his misconduct due to unfair mean committed by him at the examination.
+1.4. Where the examination of the Institute courses are conducted by the Institute the
+Principal/Head of the concerned college/recognized Institute, on receipt of a report regarding use
+of unfair means by any student at any such examination, including breach of the rule laid down
+by the Institute for proper conduct of examination, shall have power at any time to conduct
+enquiry, and to punish for such unfair means or breach of any of the rule by exclusion of such a
+student from any such examination or Institute, either permanently or for a specified period, or
+by cancellation of the result of the student in the Institute examination for which he/she
+appeared, or by deprivation of any Institution scholarship, or cancellation of the award of any
+college/Institute prize or medal to him/her, or by imposition of fine, or two or more of the
+aforesaid ways.
+1.5. During examination, examinees and other student shall be under disciplinary control of the
+Principal.
+1.6. Co-ordinator the examination center shall, in the case of unfair means, follow the procedure
+as under:
+1.6.1. The student shall be called upon to surrender to the Co-ordinator, the unfair means
+material found in his or her possession, if any, and his/her Answer book.
+33
+1.6.2. Signature of the concerned student shall be obtained on the relevant material and
+list thereon. Concerned Invigilator and the Co-ordinator shall also sign on all the relevant
+material and documents.
+1.6.3. Statement of the student and his undertaking in the prescribed format and the
+statement of the concerned Invigilator shall be recorded in writing by the Chief
+Conductor. If the student refuses to make statement or to give undertaking, the concerned
+Invigilator or Co-ordinator shall record accordingly under their signature.
+1.6.4. Co-ordinator shall take one or more of following decisions depending upon
+seriousness/gravity of the case:
+1.6.4.1. Confiscate his/her answer book, and mark it as “suspected unfair means case and
+issue him/her fresh answer book duly signed by invigilator.
+1.6.4.2. May report the case to the concerned Police Station as per the provisions of
+Maharashtra Universities Act No. XXXI 2016 an act to provide for preventing unfair
+means at university Board and other specified examinations.
+1.6.4.3. In the case of impersonation or violence, expel the concerned student from the
+examination and not allow him/her to appear for remaining examination.
+1.6.5. All the material and list of material mentioned in sub-clause 1.2.4 and the
+undertaking with the statement of the student and that of the Invigilator as mentioned in
+clause No 1.6.3 and the answer-book/s shall be forwarded by the Co-ordinator along with
+his report to the concerned Controller of Examinations/Principal/Head of the Institution,
+as the case may be, in a separate and confidential sealed envelope, marked 'suspected
+unfair means case'
+1.6.6. In case of unfair means of oral type, the Invigilator or concerned Authorized person
+shall record the facts in writing and shall report the same to the concerned coordinator/Controller of examinations /Head of Institutions, as the case may be.
+1.7. At the time of assessment of answer books, if the examiner suspects that there is
+prima-facie evidence that, the concerned student appears to have restored to unfair means
+in the examination, the examiner shall forward his/her report, along with the evidence, to
+the concerned Controller of Examinations/Head of Institutions, as the case may be, with
+34
+his/her opinion in separate confidential sealed envelope marked as 'suspected unfair
+means case.
+1.8. Case of unfair means having, prima-facing, reported by the Co-ordinator / Invigilator and /or
+Examiners shall be inquired into by the committee appointed by the Examination
+committee/Principal/Head of Institute, as the case may be, it shall proceed for further
+investigation. The officer appointed by Head of the Institute shall be the presenting officer of the
+case before the police authorities and court of justice and shall deal with the case till it is finally
+disposed off.
+1.9. Examination Result/s of the concerned student/s involved in such cases shall be held in
+reserve till the competent authority takes the final decision in the matter and the concerned
+student/s shall be informed accordingly.
+1.10. APPOINTMENT OF UNFAIR MEANS ENQUIRY COMMITTEE
+1.10.1. For the purpose of investigating unfair means resorted to by students at the Examination;
+the Examination Committee shall appoint a committee called Examination Sub Committee
+(ESC) following the guidelines given in University Statutes.
+1.10.2. The unfair means inquiry committee will function as a recommendatory body, and submit
+its recommendations, in the form of report, to the concerned competent authority, which will
+issue final orders with regard to the penal action to be taken against the student/s, after taking
+into account the reported facts and findings of case by the committee, and after ensuring whether
+reasonable opportunity has been given to the concerned implicated student in his/her defense, the
+principle of natural justice has been followed, and the recommended quantum of punishment is
+in accordance with the guidelines laid down in the behalf.
+1.11. PROCEDURE OF THE EXAMINATION SUB COMMITTEE SHOULD BE AS
+UNDER
+The Controller of Examinations / Principal of the College of Head of the recognized Institution
+or the Officer authorized by them, as the case may be, shall inform the student concerned, in
+writing, of the act of unfair means alleged to have been committed by his/her and shall ask
+35
+him/her to show cause, as to why the charge/s leveled against him/her should not be held as
+proved, and the punishment stipulated in the show cause notice be imposed.
+1.11.2 The student shall be asked to appear before the enquiry committee on the day at a time
+and place fixed for the meeting, with written reply/explanation to the show cause notice served
+on him/her therein. The student himself/herself only shall present his/her case before the
+committee.
+1.11.3. The document that are being taken into consideration, or are to be relied upon for the
+purpose of proving charge/s against the student, shall be shown to him/her by the enquiry
+committee, when the student presents himself/herself before the committee.
+1.11.4. Reasonable opportunity, including oral hearing, shall be given to the student in his/her
+defense before the committee. The committee, before giving final recommendations in the case,
+shall consider the reply/explanation given by the student to the show cause notice.
+1.11.5. The committee should follow the above procedure in the spirit of the principle of natural
+justice.
+1.11.6. After serving a show cause notice, if the implicated student fails to appear before the
+enquiry committee on the day, time and place fixed for the meeting, the student may be given
+one more opportunity to appear before the committee. Even after these two chances, if the
+concerned student fails to appear before the committee, the committee shall take decision in
+his/her case in his/her absentia, on the basis of the documents available.
+1.11.7. The committee shall submit its report to the concerned competent authority along with its
+recommendations regarding punishment to be inflicted on or otherwise.
+1.12. PUNISHMENT:
+The Principal, after taking into consideration the report of the committee, shall pass such orders
+as it deem fit, including granting the student benefit of doubt, issuing warning or exoneration to
+him/her from the charges, and shall impose any one or more of the following punishment on the
+student/s found guilty of using unfair means.
+1.12.1. Annulment of performance of the student in full or in part in the examination he/she has
+appeared for.
+36
+1.12.2. Debarring student from appearing for any Examination of the Institution for a stipulated
+period not exceeding five years.
+1.12.3 Debarring student from taking admission for any course in the Institution for a stipulated
+period not exceeding five years.
+1.12.4. Cancellation of the scholarship/s or award/s prize or medal etc, awarded to him/her in
+that examination.
+1.12.5. In addition to the above-mentioned punishment, the competent authority may impose a
+fine on the student declared guilty. If the student concerned fails to pay the fine within a
+stipulated period,
+the competent authority may impose on such a student additional punishment/penalty as it may
+deem fit.
+1.12.6. The student concerned shall be informed of the punishment fully imposed on him/her in
+writing, by the competent authority or by the officer authorized by it in his behalf, under
+intimation to the College/Institution he/she belongs to.
+1.12.7. An appeal against the findings of the committee shall lie with the concerned competent
+authority whose decision shall be final and binding.
+1.12.8. An appeal made in writing within a period of 30 days from the date of imposition of the
+punishment, shall be considered by the competent authority on merit, and it shall be decided on
+the basis of the evidence available in the case, and shall be beard in person in deserving cases, if
+the competent authority finds substance in the appeal, the competent authority shall supply a
+typed copy of relevant extract of fact-finding report of the inquiry committee, as well as
+documents relied upon (if not strictly confidential) pertaining to his/her case to
+appellant/petitioner, if applied for in writing. Decision to the appeal shall be informed to the
+student concerned accordingly.
+1.12.9. The respective competent authority shall deal with the court matters in respect of the
+unfair means cases.
+1.12.10. As far as possible, the quantum of punishment should be as prescribed in Appendix- I
+37
+2. UNFAIR MEANS USED OR LAPSES COMMITTED BY ANY PAPER SETTERS
+/EXAMINERS / ODERATORS, REFEREES / TEACHERS OR ANY OTHER PERSONS
+CONNCETED WITH THE CONDUCT OF EXAMINATION.
+2.1. The Examination Committee shall be competent authority to take appropriate disciplinary
+action against the paper setter, examiners, moderators, referees, teachers or any other person
+connected with the conduct of examination, committing laps or using, attempting to use aiding,
+abetting, instigating or allowing to use unfair means/s at the examination conducted by the
+Institute.
+2.2 The staff who does not perform the examination duties as per examination rules and
+schedule shall be given a chance for self correction and, if required, the Principal shall use his
+discretionary power to take the appropriate corrective measures, which may include making
+relevant entries in the service book of the concerned person. The service of the erring temporary
+staff may be terminated by the Principal, if found necessary.
+2.3. Definitions: unless the context otherwise requires
+2.3.1. Paper Setter, Examiner, Moderator, Referee and Teacher means and includes person/s duly
+appointed as such for the examination by the competent authority, and also any other person
+connected with the conduct of examination, appointed by the competent authority.
+ 2.3.2. Unfair means/lapses includes one or more of the following acts or omissions on the part of
+the person/s included in 2.3.1 above.
+2.3.2.1. Leakage of Question/s or Question Paper Set at the Institute examination, before the time
+of examination.
+2.3.2.2. Examiner/Moderator, intentionally awarding marks to student in assessment of answer
+books, dissertation or project work, to which the student is not entitled, or not assigning marks to
+the student to which the student is entitled.
+2.3.2.3. Paper Setter omitting question or setting question outside the scope of syllabus.
+2.3.2.4. Examiner/Referee showing negligence in detecting unfair means used by student/s.
+2.3.2.5. Invigilator / Chief Conductor showing negligence / apathies in carrying out duties:
+(Siding/ abetting/ allowing / instigating students to use unfair means/s)
+2.3.2.6. Or any other similar act/s and or omissions/s, which may be considered as unfair means
+or lapses by the competent authority.
+38
+2.3.3. Unfair means or lapses relating to examination means and includes directly committing, or
+attempting to commit, or threatening to commit any act of unfair means, fraud or undue
+influence with a view to obtain wrongful gain to him/her, or any other person or causing
+wrongful loss to other person/s, or omitting to do what he/she is bound to do as duties.
+3. REGULATIONS REGARDING UNFAIR MEANS RESORTED TO BY THE
+STUDENT/PAPER SETTERS / EXAMINERS / MODERATORS, REFEREES
+TEACHERS OR ANY OTHER PERSONS CONNCETED WITH THE CONDUCT OF
+EXAMINATION.
+ 3.1 the On receipt of a report regarding use of unfair means by any student at any examination,
+including breach of any of the rules laid down by the Institution Authorities, Examination
+Committee shall have power, at any time, to institute for proper conduct of Examination, inquiry,
+and to punish such unfair means or breach of the rules, exchision of such student from any
+examination from Recognized Institution or from any convocation for the purpose of conferring
+degree, either permanently or for a specified period, or by cancellation of the result of the student
+in the examination for which the student appeared, or by deprivation of any scholarship held by
+him/her, or by cancellation of the award of any prize or medal to him/her, or by imposition of
+fine, or in any two or more of the aforesaid ways, within a period of one year.
+3.2. On receipt of report regarding unfair means used or laps committed by any paper setter,
+examiner, moderator, referees, teacher or any other person connected with the conduct of
+examination held by the Institution, including breach of the rules laid down for proper conduct of
+examination, the Examination Committee, shall have power, at any time, to institute inquiry and
+to punish such unfair means or lapses by declaring the concerned person disqualified for the
+conduct of any examination work, either permanently or for a specified period, or by referring
+his/her case to the rules provided for, or in any two or more of the aforesaid ways.
+3.3. INVESTIGATING COMMITTEE
+3.3.1. The committee appointed by the Examination Committee to investigate unfair means
+resorted to by student/s at the examination, shall also investigate the cases of unfair means used
+39
+and or lapses committed by the paper setters, examiners, moderators, referees, teachers or any
+other persons connected with the conduct of examinations.
+3.4. PROCEDURE FOR INVESTIGATION
+3.4.1. The cases of alleged use of unfair means or lapses committed by the paper setters,
+examiners, moderators, referees, teachers or any other persons connected with the conduct of
+examinations shall be scrutinized by the concerned Officer/In-charge of the sub-section/Unit to
+which the case is primarily pertained at the examination section of the Institution, collect
+preliminary information to find out whether there is prima-facie case so as to fix up primary
+responsibility for framing a charge sheet and then shall submit the said case with his primary
+report to the concerned competent authority. If the competent authority is satisfied that there is a
+prima-facie case, it shall place the same before the unfair means inquiry committee for further of
+the Investigation. The concerned officer appointed by the head Institution shall be the presenting
+officer of the case before the enquiry committee, Police Authorities and court of justice and shall
+deal with the case till it is finally disposed off.
+3.4.2. The competent authority, or the officer authorized by, in this behalf, shall inform the
+implicated persons (paper setter, examiner, moderator, referees, teacher, or any other person
+connected with the conduct of examination) in writing of act of unfair means used, and or lapses
+committed by him/her at examination, and shall ask him/her how cause, as to why the charge/s
+leveled against him/her should not be held as proved, and the punishment stipulated in the show
+cause notice be impose.
+3.4.3. The concerned person be asked to appear before the inquiry committee on a day, time and
+place fixed for meeting, with written reply/explanation to the show cause notice served on
+him/her, and charge levelled against him/her therein. The concerned person himself/herself only
+shall present his/her cause before the committee.
+3.4.4. The documents that are being taken into consideration to be relied upon for the purpose of
+proving charge/s against the concerned person, shall be shown to him/her by the inquiry
+committee, if he/she presents himself/herself before the committee. The evidence, if any should
+be recorded in presence of the delinquent.
+40
+3.4.5. Reasonable opportunity, including oral hearing, shall be given to the concerned person in
+his/her defense before the committee. The reply/explanation given to the show cause notice shall
+also be considered by the committee before making final report/recommendation.
+3.4.6. The committee should follow the above procedure in the spirit of principle of natural
+justice.
+3.4.7. If the concerned person fails to appear before the committee on the day, time and place
+fixed for the meeting, he/she shall be given one more opportunity to appear before the committee
+in his/her defense. Even after offering two chances, if the concerned person fails to appear before
+the committee, the committee shall take decision in his/her case, in his/her absentia on the basis
+of whatever evidences/document available before it, and same shall be binding on the concerned
+implicated person.
+3.4.8. The committee shall submit its report to the concerned competent Authority with its
+recommendation regarding punishment to be inflicted on the concerned person or otherwise.
+3.5 PUNISHMENT
+The competent authority, after taking into consideration the report of the PUNISHMENT
+committee shall pass such orders as it deems fit including granting the exonerating implicated
+person benefit of doubt, issuing warning or him/her from the charge/s and shall impose any one
+or more of the following punishments on the implicated person found guilty of using unfair
+means or committing lapses at the examinations.
+ 3.5.1. Declaring disqualified the concerned paper-setter, examiner, moderator, referee, teacher
+or any other person connected with the conduct of examination, from any examination work
+either permanently or for a specified period.
+3.5.2. Imposing fine, if the concerned person fails to pay the fine within a stipulated period, the
+competent authority may impose on such a person additional punishment/penalty, as it may deem
+fit.
+3.5.3. Referring his/her case to the concerned disciplinary authorities for taking such disciplinary
+action as deemed fit as per the rules governing his/her service conditions.
+41
+3.5.4. The competent authority or the officer authorized in this behalf, shall inform the concerned
+person of the decision taken in his/her case and punishment imposed on him/her.
+3.5.5. An appeal made within 30 days of imposition of the punishment other than the punishment
+referred to clause no. 3.5.3 above, shall lie with the examination committee, and their decision
+in the appeal shall be final and binding
+3.5.6. The competent authority shall supply a typed copy of the relevant extract of fact finding
+report of the inquiry committee, as well as the documents relied upon (if not strictly
+confidential), pertaining his/her case to the appellant /petitioner, if applied for in writing
+3.5.7. The court matters in respective cases of unfair means/lapses should be dealt with by the
+respective competent authority.
+3.5.8. As far as possible, the quantum of punishment should be prescribed in Appendix-II
+F. AMENDMENT OF RESULT
+1. DUE TO ERROR
+1.1. ERROR MEANS
+1.1.1. Error in computer/data entry, printing or programming, and the likewise.
+1.1.2. Clerical error, manual or machine, installing or entering marks on ledger/register.
+1.1.3. Error due to negligence or oversight of examiner or any other person connected
+with evaluation, moderation, rechecking and result preparation.
+1.2. In any case, where it is found that the result of an examination has been affected by
+errors, the Controller of Examinations shall have power to amend such result in such manner as
+shall be in accordance with the true position, and to make such declaration as is necessary, with
+the necessary approval of the Chairman, Examination Committee, provided the errors are
+reported / detected within six months from the date of declaration of results. Errors detected
+thereafter shall be placed before the Examination Committee.
+2. DUE TO FRAUD, MALPRACTICE ETC :
+In any case, where the result of an examination has been ascertained and published, and it is
+found that such result has been affected by any unfair found, or any other improper conduct
+whereby an examinee has been benefited, and that such examinee, in the opinion of the
+42
+Examination Committee, means has been party, or privy to or connived at such unfair means,
+fraud or improper conduct, the Examination Committee shall have power, at any time,
+notwithstanding the issue of the certificate or the award of a prize of scholarship. to amend the
+result of such examinee, and to make such declaration as the examination Committee considers
+necessary in that behalf.
+G . GRIEVANCES AND REDRESSAL
+Student’s grievances about examinations, if any, shall be dealt with by the Controller of
+Examinations, or by any other office/committee, or by Institute Standing Committee (ISC)
+appointed by the Principal.
+H. APPEALS
+1. The Head of the Department should complete the Examination Appeals Form and submit this,
+together with the student's letter of appeal, and any relevant medical or other certificate to the
+Chairman, Examination Committee.
+2. The decision of the Examination Committee shall be communicated to the student, COE,
+HOD, Registrar (Academic) and Dean (Academic) for the purpose of maintaining the student
+record.
+I. PRESERVATION OF RECORD AND VARIOUS DOCUMENTS OF CONTROLLER
+OF EXAMINATION CELL
+The preservation of records and various documents of the office of Controller of Examination
+shall be as per Appendix –III
+43
+APPENDIX- I
+THE BROAD CATAGORIES OF UNFAIR MEANS ADOPTED BY STUDENTS AT
+THE UNIVERSITY / COLLEGE / INSTITUTION EXAMINATION AND THE
+QUANTUM OF PUNISHMENT FOR EACH CATEGORY THERE OF
+Sr. No. Nature of Unfair means Quantum of Punishment
+1 Possession of copying material Annulment of the performance of the
+student/s Institution Examination in
+full (Note This quantum of
+punishment shall apply also to the
+following categories of unfair means
+at Sr.No. 1 to Sr.No.12 in addition to
+the Punishment prescribed there at)
+2 Actual copying from the copying Material Exclusion Institution of the student
+from examination for one additional
+Examination.
+3 Possession of Other Students Answer Book Exclusion of the student from
+Institution examination for one
+additional Examination. (Both the
+Students)
+4 Possession of Other Students Answer Book +
+actual evidence of copying there from
+Exclusion of the student from
+Institution examination for two
+additional Examinations. (Both the
+Students)
+5 Mutual Mass Copying Exclusion of the student from
+Institution examination for two
+additional Examinations.
+6 (a) Smuggling out or smuggling in of Exclusion of
+the student from Answer Book as copying
+material
+Exclusion of the student from
+Institution examination for two
+additional Examinations.
+44
+(b) Smuggling in of written answer book based on
+the question paper set at the Examination
+Exclusion of the student from
+Institution examination for three
+additional Examinations.
+(C) Smuggling in of written answer book and
+forging signature of the invigilator thereon
+Exclusion of the student from
+Institution examination for four
+additional Examinations.
+7 Attempt to forge signature of invigilator on the
+answer book of Supplement
+Exclusion of the student from
+Institution examination for four
+additional Examinations.
+8 Interfering with or counterfeiting of Exclusion
+of Institution seal of Answer books or office
+stationary used in the additional Examination
+Exclusion of the student from
+Institution examination for four
+additional Examinations.
+9 Answer book main or supplement written
+outside the examination hall or any other
+insertion in answer book
+Exclusion of the student from
+Institution examination for four
+additional Examinations.
+10 Insertion of currency notes/to bribe or
+attempting to bribe any of the persons/s
+connected with the additional Examinations.
+Exclusion of the student from
+Institution examination for four
+additional Examinations. (This
+money shall be Credited to the
+account of C.O.E.)
+11 Using obscene language / violence /threat at
+the examination centre by a student at the
+Institution Examination to invigilator / Chief
+Conductor of Examinations
+Exclusion of the student from
+Institution examination for four
+additional Examinations.
+12 Impersonation at the
+university/College/Institution Examination
+Exclusion of the student from
+Institution examination for five
+additional Examinations.( Both the
+Students if impersonator is University
+or College or Institute Student)
+13 Revealing Identity in any form in the Answer
+written or in any other part of answer book by
+Annulment of the performance of the
+student at the Institution Examination
+45
+the student at the Institution Examination in full.
+14 Found having written on palms or Annulment
+of the performance of the on the Body, or on
+the clothes student at the Institution
+Examination
+Annulment of the performance of the
+student at the Institution Examination
+in full.
+15 Carrying mobile or allied instruments Rs. 1500/- Fine
+16 All other unfair means not covered in the
+aforesaid categories
+Annulment of the performance of the
+student at the Institution Examination
+in full and serve punishmen
+depending upon the gravity of the
+offence.
+Note:
+1 The term 'annulment of performance in full' includes performance of the student of the theory
+as well as annual practical examination, but does not include performance at term work, project
+work and dissertation examination unless unfair means used there at.
+2 If, on previous occasion, a disciplinary action was taken against a student for unfair means
+used at examination, and he/she is caught again for unfair means used at the examination in this
+event he/she shall be dealt with severely. Enhanced punishment can be imposed on such student.
+This enhanced punishment may extend to double the punishment provided for the offence when
+committed in the second or subsequent examination.
+3 Student involved in unfair means at practical / dissertation / project report/ defense
+examination shall be dealt with as per the punishment provided for the theory examination.
+4 The competent authority, in addition to the above mentioned punishments, may impose a fine
+on the student declared guilty.
+APPENDIX II
+ACTION FOR MALPRACTICES/ LAPSE ON THE PART OF PAPER STEER/
+EXAMINERS/ MODERATORS/RECHECKERS/REFEREE / TEACHER OR ANY
+46
+OTHER PERSON CONNECTED WITH THE CONDUCT OF UNIVERSITY
+/COLLEGE/INSTITUTE EXAMINATION
+Sr. No. Nature of Unfair means / Lapses Punishment
+1 Paper setter found responsible for leakage of
+the question paper set in the Institution
+Examination/s whether intentionally or due to
+the negligence before the time of examination.
+Disqualification from any Exam
+Work plus Disciplinary action by the
+concerned as per the rules applicable.
+2 Leakage of the question / question paper set in
+the Institution Examination before the time of
+examination at the Institution Examination or
+Examination centre by any person/s connected
+with the conduct of Examination.
+Disciplinary action against the guilty
+/ responsible person/s as per the
+prevailing rules/standard codes by
+concerned authorities.
+3 Favoring a student (Examination) by
+Examiner, Moderator, rechecker and referee in
+assessment of answer book /
+Dissertation/project report / thesis by assigning
+the student mark to which the student is not
+entitled to Institute examination
+Disqualification from any Exam
+Work plus Disciplinary action by the
+concerned authorities.
+4 Examiner / Moderator / Referee
+internationally/ negligently not assigning the
+student in assessment of his/her answer
+books/dissertation /thesis / project work, the
+mark to which the student is entitled to at the
+Institution Examinations
+Disqualification from any Exam
+Work plus Disciplinary action by the
+concerned authorities.
+5 Paper setter omitting the question at the time
+of finalization of question paper set at the
+examination or repeating Sr. No. of question
+while writing
+Disqualification from any Exam
+Work for a period of three years.
+6 Paper setter repeating questions in same /
+different section/ s
+Disqualification from any Exam
+Work for a period of three years.
+47
+7 Paper setter setting questions outside the scope
+of the syllabus.
+Disqualification from any Exam
+Work for a period of three years.
+8 While assessing Answer Examiners showing
+negligence in detecting unfair means used by
+the student/s
+As decided by the authorities of the
+Institution
+9 Guiding teacher showing negligence in
+supervision of dissertation/project work/thesis
+(e.g. use of manipulated data by a student)
+As decided by the authorities of the
+Institution
+10 Invigilator /Chief Conductor showing apathy
+in carrying out duties related to examinations
+(eg not taking round in the examination hall at
+the examination period or opening the packet
+of question paper before prescribed time)
+As decided by the authorities of the
+Institution
+11 Invigilator helping student copying answer
+while in examination or showing negligence in
+reporting cases of copying answer by student
+when on supervision duty Invigilator helping
+student when on supervision duty
+Disqualification from any Exam
+Work for a period of three years plus
+Disciplinary action by the concerned
+authorities as per the rules if he/she is
+Institute Employee.
+12 Invigilator helping student (examinee) in mass
+copying while on examination duty.
+Permanent disqualification from any
+exam work plus disciplinary action
+by authorities as per the rules if
+she/he is a Institute Employee.
+13 The competent authority, in addition to the above mentioned punishment, a fine on the
+concerned person, if declared guilty.
+14 The competent authority may report the case of the concerned implicated person to the
+appropriate police authorities as per the provisions of the Maharashtra University Act
+No. XXXI of 1982.
+48
+APPENDIX-III
+PRESERVATION OF RECORD AND VARIOUS DOCUMENTS
+Sr. No. Nature of Document Preservation Duration
+1 Result Sheets Permanent
+2 Bills and Note Books 5 Years
+3 Reports/Committee papers Permanent
+4 Student applications Exam forms 5 Years
+5 Various mark lists 5 Years
+6 Mark Sheets Permanent
+7 Online Correspondence 5 Years
+8 Inward/Outward registers 5 Years
+9 Unfair means related papers 5 Years
+10 Purchase related papers / application 1 Years
+11 Exam related student application 1 Years
+12 Answer Sheets of ESE/ Re Examination 1 Years
+13 Proposal related correspondence 1 Years
+14 Question paper related / policy correspondence Permanent
+15 Question papers originals 1 Years
+16 Used question papers 1 Years
+17 Important Correspondence / documents Permanent
+18 Answer Sheets of ISE(class test) 1Years
+19 Answer Sheets of Practical Examination 1Years
+Note: All papers / material other than under preservation shall be made available in partly
+destructed form, for sale / auction as per official procedure
