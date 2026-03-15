@@ -1,1 +1,413 @@
-u
+GECA CBCS RULES 
+Government College of Engineering Aurangabad 
+
+Rules and Regulations regarding Curriculum as per Choice Based Credit System (CBCS) 
+for Undergraduate B.Tech Programmes. 
+
+Academic year: 2021-2022 onwards 
+
+-------------------------------------------------- 
+
+INTRODUCTION 
+
+These regulations apply to all undergraduate degree programs at 
+Government College of Engineering Aurangabad (GECA). 
+
+The rules define the policies for: 
+
+- admission of students 
+- academic curriculum 
+- examinations and evaluations 
+- certification of degrees 
+
+These rules may be revised by the Academic Council when required. 
+
+-------------------------------------------------- 
+
+ACADEMIC CALENDAR 
+
+The B.Tech degree duration: 
+
+Full Time Programme → 8 semesters 
+Part Time Programme → 8 semesters 
+
+Each academic year has two semesters. 
+
+Each semester normally contains: 
+- academic teaching 
+- examinations 
+- semester vacation 
+
+The academic calendar defines all important dates. 
+
+-------------------------------------------------- 
+
+REGISTRATION 
+
+Students must register for courses at the beginning of each semester. 
+
+Minimum credits per semester: 
+Full time programme → 10 credits 
+Part time programme → 10 credits 
+
+Maximum credits: 
+Full time programme → 30 credits 
+Part time programme → 30 credits 
+
+Students must complete registration before the deadline. 
+
+Late registration may be allowed with approval. 
+
+-------------------------------------------------- 
+
+CREDIT AND EVALUATION SYSTEM 
+
+Academic performance is graded on a 10 point scale. 
+
+Grades and grade points: 
+
+A+ → 10 
+A  → 9 
+B+ → 8 
+B  → 7 
+C+ → 6 
+C  → 5 
+D  → 4 
+F  → Fail 
+
+SGPA = Semester Grade Point Average 
+
+CGPA = Cumulative Grade Point Average 
+
+Division based on CGPA: 
+
+CGPA ≥ 7.0 → First Class with Distinction 
+6.0 ≤ CGPA < 7.0 → First Class 
+5.0 ≤ CGPA < 6.0 → Second Class 
+CGPA < 5.0 → Pass Class 
+
+-------------------------------------------------- 
+
+ADD / DROP COURSES 
+
+Students can ADD courses after registration if permitted. 
+
+Students can DROP courses within the deadline 
+specified in the academic calendar. 
+
+-------------------------------------------------- 
+
+ATTENDANCE RULES 
+
+Students must attend lectures, tutorials and practical sessions. 
+
+Minimum attendance required → 75% 
+
+If attendance is below 75%, 
+the student may not be allowed to appear for End Semester Examination. 
+
+-------------------------------------------------- 
+
+ABSENCE DURING SEMESTER 
+
+Leave of absence may be granted for valid reasons such as: 
+
+- medical emergencies 
+- family emergencies 
+- official representation of institute 
+
+However, all In-Semester evaluations are mandatory. 
+
+-------------------------------------------------- 
+
+TRANSFER OF CREDITS 
+
+Students may transfer credits earned from: 
+
+- recognized institutes 
+- approved external courses 
+
+Credit transfer must be approved by the Academic Council. 
+
+-------------------------------------------------- 
+
+WITHDRAWAL FROM PROGRAMME 
+
+Temporary withdrawal may be permitted for: 
+
+- serious illness 
+- family emergencies 
+- other valid reasons 
+
+Permanent withdrawal requires formal approval from the institute. 
+
+-------------------------------------------------- 
+
+CONDUCT AND DISCIPLINE 
+
+Students must maintain proper conduct inside and outside campus. 
+
+Prohibited activities include: 
+
+- ragging 
+- possession of alcohol or drugs 
+- violence or misconduct 
+- hacking or computer misuse 
+- plagiarism 
+
+Violations may result in disciplinary action. 
+
+-------------------------------------------------- 
+
+GRADUATION REQUIREMENTS 
+
+A student is eligible for degree award if: 
+
+- all required credits are completed 
+- no dues remain 
+- no disciplinary cases are pending 
+
+-------------------------------------------------- 
+
+DEGREE PROGRAMMES AT GECA 
+
+The institute offers B.Tech programmes in: 
+
+- Civil Engineering 
+- Computer Science and Engineering 
+- Electrical Engineering 
+- Electronics and Telecommunication Engineering 
+- Information Technology 
+- Mechanical Engineering 
+
+-------------------------------------------------- 
+
+ADMISSION 
+
+Admissions follow rules of Government of Maharashtra. 
+
+Students may also participate in: 
+
+- student exchange programs 
+- credit transfer programs 
+
+-------------------------------------------------- 
+
+END OF CBCS RULES 
+Important (for your AI) 
+
+Your chatbot will work much better with this text file because: 
+
+✔ smaller tokens 
+✔ faster search 
+✔ no PDF parsing errors 
+✔ better AI answers 
+
+Next Improvement (Highly Recommended) 
+
+Your current Panda AI is basic RAG. 
+
+I can upgrade it so Panda can: 
+
+🐼 answer ANY GECA question 
+🐼 search all files automatically 
+🐼 never exceed token limits 
+🐼 remember conversation 
+🐼 answer about Jugal Pakhare smartly 
+
+This would make your project look like a real AI product instead of a basic chatbot.GECA CBCS RULES 
+Government College of Engineering Aurangabad 
+
+Rules and Regulations regarding Curriculum as per Choice Based Credit System (CBCS) 
+for Undergraduate B.Tech Programmes. 
+
+Academic year: 2021-2022 onwards 
+
+-------------------------------------------------- 
+
+INTRODUCTION 
+
+These regulations apply to all undergraduate degree programs at 
+Government College of Engineering Aurangabad (GECA). 
+
+The rules define the policies for: 
+
+- admission of students 
+- academic curriculum 
+- examinations and evaluations 
+- certification of degrees 
+
+These rules may be revised by the Academic Council when required. 
+
+-------------------------------------------------- 
+
+ACADEMIC CALENDAR 
+
+The B.Tech degree duration: 
+
+Full Time Programme → 8 semesters 
+Part Time Programme → 8 semesters 
+
+Each academic year has two semesters. 
+
+Each semester normally contains: 
+- academic teaching 
+- examinations 
+- semester vacation 
+
+The academic calendar defines all important dates. 
+
+-------------------------------------------------- 
+
+REGISTRATION 
+
+Students must register for courses at the beginning of each semester. 
+
+Minimum credits per semester: 
+Full time programme → 10 credits 
+Part time programme → 10 credits 
+
+Maximum credits: 
+Full time programme → 30 credits 
+Part time programme → 30 credits 
+
+Students must complete registration before the deadline. 
+
+Late registration may be allowed with approval. 
+
+-------------------------------------------------- 
+
+CREDIT AND EVALUATION SYSTEM 
+
+Academic performance is graded on a 10 point scale. 
+
+Grades and grade points: 
+
+A+ → 10 
+A  → 9 
+B+ → 8 
+B  → 7 
+C+ → 6 
+C  → 5 
+D  → 4 
+F  → Fail 
+
+SGPA = Semester Grade Point Average 
+
+CGPA = Cumulative Grade Point Average 
+
+Division based on CGPA: 
+
+CGPA ≥ 7.0 → First Class with Distinction 
+6.0 ≤ CGPA < 7.0 → First Class 
+5.0 ≤ CGPA < 6.0 → Second Class 
+CGPA < 5.0 → Pass Class 
+
+-------------------------------------------------- 
+
+ADD / DROP COURSES 
+
+Students can ADD courses after registration if permitted. 
+
+Students can DROP courses within the deadline 
+specified in the academic calendar. 
+
+-------------------------------------------------- 
+
+ATTENDANCE RULES 
+
+Students must attend lectures, tutorials and practical sessions. 
+
+Minimum attendance required → 75% 
+
+If attendance is below 75%, 
+the student may not be allowed to appear for End Semester Examination. 
+
+-------------------------------------------------- 
+
+ABSENCE DURING SEMESTER 
+
+Leave of absence may be granted for valid reasons such as: 
+
+- medical emergencies 
+- family emergencies 
+- official representation of institute 
+
+However, all In-Semester evaluations are mandatory. 
+
+-------------------------------------------------- 
+
+TRANSFER OF CREDITS 
+
+Students may transfer credits earned from: 
+
+- recognized institutes 
+- approved external courses 
+
+Credit transfer must be approved by the Academic Council. 
+
+-------------------------------------------------- 
+
+WITHDRAWAL FROM PROGRAMME 
+
+Temporary withdrawal may be permitted for: 
+
+- serious illness 
+- family emergencies 
+- other valid reasons 
+
+Permanent withdrawal requires formal approval from the institute. 
+
+-------------------------------------------------- 
+
+CONDUCT AND DISCIPLINE 
+
+Students must maintain proper conduct inside and outside campus. 
+
+Prohibited activities include: 
+
+- ragging 
+- possession of alcohol or drugs 
+- violence or misconduct 
+- hacking or computer misuse 
+- plagiarism 
+
+Violations may result in disciplinary action. 
+
+-------------------------------------------------- 
+
+GRADUATION REQUIREMENTS 
+
+A student is eligible for degree award if: 
+
+- all required credits are completed 
+- no dues remain 
+- no disciplinary cases are pending 
+
+-------------------------------------------------- 
+
+DEGREE PROGRAMMES AT GECA 
+
+The institute offers B.Tech programmes in: 
+
+- Civil Engineering 
+- Computer Science and Engineering 
+- Electrical Engineering 
+- Electronics and Telecommunication Engineering 
+- Information Technology 
+- Mechanical Engineering 
+
+-------------------------------------------------- 
+
+ADMISSION 
+
+Admissions follow rules of Government of Maharashtra. 
+
+Students may also participate in: 
+
+- student exchange programs 
+- credit transfer programs 
+
+-------------------------------------------------- 
+
+END OF CBCS RULES
